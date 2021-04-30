@@ -1,3 +1,6 @@
 [submodule "FE"]
 	path = FE
 	url = https://github.com/tnd2908/Traveloka-Car-Hiring.git
+[submodule "traveloka-services"]
+	path = traveloka-services
+	url = https://git.heroku.com/traveloka-services.git
